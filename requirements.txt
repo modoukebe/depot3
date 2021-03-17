@@ -1,2 +1,6 @@
+pip==21.0.1
+earthengine-api 
+voila
 geemap
-gunicorn==19.7.1
+requests==2.25.1
+idna==2.8
