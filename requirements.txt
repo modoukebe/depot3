@@ -1,6 +1,11 @@
 pip==21.0.1
-ee==0.0.3
-os==3.10
+ee
+geocoder
+ediblepickle
+requests
+gunicorn
+jinja2
+werkzeug
 --use-feature=2020-resolver
 Fiona==1.8.19
 folium==0.12.1
