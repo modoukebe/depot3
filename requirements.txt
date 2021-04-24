@@ -2,8 +2,6 @@ pip==21.0.1
 ee
 geocoder
 ediblepickle
-requests
-gunicorn
 jinja2
 werkzeug
 --use-feature=2020-resolver
